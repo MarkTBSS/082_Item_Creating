@@ -3,9 +3,7 @@ module github.com/MarkTBSS/082_Item_Creating
 go 1.22.0
 
 require (
-	github.com/MarkTBSS/082_Item_Creating v0.0.0-20240420005648-032f8b0bbec8
 	github.com/go-playground/validator/v10 v10.19.0
-	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/gommon v0.4.2
 	github.com/spf13/viper v1.18.2
 	gorm.io/driver/postgres v1.5.7
